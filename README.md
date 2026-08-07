@@ -1,5 +1,4 @@
 # ENEB-Angola-AI-Assistente
-Assistente de IA da ENEB Angola
 Assistente Inteligente de Informações Acadêmicas baseado em IA Generativa
 
 📌 Visão Geral
