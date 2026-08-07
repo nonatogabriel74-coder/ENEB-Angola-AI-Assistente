@@ -298,6 +298,7 @@ Versão 3.0
 
  
 👨‍💻 Autor Gabriel
+
 Projeto Independente — 2026
 
 Áreas:
