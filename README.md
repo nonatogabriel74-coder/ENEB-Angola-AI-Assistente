@@ -1,6 +1,7 @@
 # ENEB-Angola-AI-Assistente
 Assistente Inteligente de Informações Acadêmicas baseado em IA Generativa
 
+
 📌 Visão Geral
 
 O ENEB Angola AI Assistant é um projeto de Inteligência Artificial Generativa desenvolvido para criar um assistente inteligente capaz de fornecer informações organizadas, confiáveis e contextualizadas sobre a ENEB Business School.
@@ -8,6 +9,8 @@ O ENEB Angola AI Assistant é um projeto de Inteligência Artificial Generativa 
 A solução usa o Google NotebookLM como base de conhecimento, permitindo a criação de um ambiente de consulta inteligente baseado em documentos previamente selecionados.
 
 O objetivo principal é facilitar o acesso à informação acadêmica para candidatos angolanos, oferecendo respostas rápidas sobre processos de candidatura, programas acadêmicos, metodologia de estudo e outros temas relacionados à jornada do estudante.
+
+
 
 🎯 Objetivos do Projeto
 
@@ -24,6 +27,8 @@ Reduzir dúvidas repetitivas no processo de atendimento.
 Demonstrar aplicação prática de IA Generativa na educação.
 Crie uma solução escalável para suporte acadêmico.
 
+
+
 🧩 Problema identificado
 
 Durante o processo de decisão académica, muitos candidatos enfrentam dificuldades para encontrar informações claras sobre:
@@ -38,6 +43,8 @@ Certificação.
 
 As informações podem estar distribuídas por diferentes canais, tornando o processo mais demorado.
 
+
+
 💡 Solução Desenvolvida
 
 O projeto propõe um assistente inteligente que utiliza uma base documental organizada para responder perguntas dos utilizadores.
@@ -49,6 +56,8 @@ Criação da base de conhecimento;
 Configuração do NotebookLM;
 Aplicação de prompts especializados;
 Geração de respostas contextualizadas.
+
+
 
 🏗️ Arquitetura da Solução
 
@@ -65,6 +74,8 @@ Prompt Engineering
 ENEB Angola AI Assistant
           ↓
       Utilizador
+
+
 
 📚 Base de Conhecimento
 
@@ -89,6 +100,8 @@ knowledge_base/
 ├── Certificacao.md
 
 └── FAQ.md
+
+
 
 🚀 Funcionalidades
 
@@ -118,6 +131,8 @@ Qual programa escolher?
 Perguntas Frequentes (FAQ)
 Responde dúvidas comuns usando a base documental disponível.
 
+
+
 🛠️ Tecnologias Utilizadas
 
 Tecnologia	Aplicação
@@ -127,6 +142,8 @@ Inteligência Artificial Generativa	Processamento e geração de respostas
 Engenharia de Prompts	Configuração do comportamento do assistente
 Espaço de trabalho do Google	Organização documental
 GitHub	Gestão e documentação do projeto
+
+
 
 📂 Estrutura do Repositório
 
@@ -183,7 +200,6 @@ ENEB-Angola-AI-Assistant/
 
 │   └── Fluxo_Processo.md
 
-
 └── casos_uso/
 
     ├── Novo_Candidato.md
@@ -192,6 +208,8 @@ ENEB-Angola-AI-Assistant/
 
     └── Suporte_Academico.md
     
+
+
 ⚙️ Configuração do Projeto
 
 Pré-requisitos
@@ -217,6 +235,8 @@ Não invente informações.
 Quando não encontrar uma resposta,
 indique que a informação deve ser confirmada oficialmente.
 
+
+
 💬 Exemplos de Utilização
 
 Pergunta
@@ -227,6 +247,8 @@ Resposta esperada
 O candidato deve selecionar o programa pretendido,
 verificar os requisitos disponíveis e seguir
 o processo oficial de candidatura.
+
+
 
 📌 Casos de uso
 
@@ -242,6 +264,8 @@ Caso 3 — Atendimento acadêmico
 Mirar:
 Reduzir perguntas repetitivas e melhorar a experiência do usuário.
 
+
+
 🔐 Princípios do Assistente
 
 O projeto segue boas práticas:
@@ -250,6 +274,8 @@ Transparência da informação;
 Redução de alucinações da IA;
 Organização do conhecimento;
 Uso responsável da Inteligência Artificial.
+
+
 
 🗺️ Roteiro
 
@@ -281,6 +307,7 @@ Engenharia de Prompts
 Inteligência de Negócios
 Gestão do Conhecimento
 Transformação Digital
+
 
 📄 Licença
 Este projeto está disponível sob licença MIT.
