@@ -297,8 +297,7 @@ Versão 3.0
  Integração CRM
 
  
-👨‍💻 Autor
-Obrigado Gabriel
+👨‍💻 Autor Gabriel
 Projeto Independente — 2026
 
 Áreas:
